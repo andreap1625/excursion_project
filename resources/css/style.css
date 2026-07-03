@@ -43,3 +43,11 @@ a {
     margin-right: auto;
     width: 45%;
 }
+
+.phone-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 4%;
+    margin-top: 30px;
+}
